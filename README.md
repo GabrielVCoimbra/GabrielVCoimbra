@@ -43,3 +43,6 @@
  <a href="https://www.linkedin.com/in/gabriel-coimbra-597821260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/4e/f6/08/4ef608e95677dc3dab15a00df8148277.gif"  />
+</div>
