@@ -2,9 +2,11 @@
  
 <div align="center">
  <a href="https://github.com/GabrielVCoimbra">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielVCoimbra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=city_lights&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielVCoimbra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=GabrielVCoimbra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielVCoimbra&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <h1></h1>
    
