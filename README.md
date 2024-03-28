@@ -28,9 +28,6 @@
 
 
 ###
-<img align="right" height="200" src="https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif"  />
-
-###
 
 <p align="center">Técnologias</p>
 
