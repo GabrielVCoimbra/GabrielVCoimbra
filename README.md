@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Oiii! Eu sou o Gabriel</h1> <br> <h4>Tive participação em diversos projetos, incluindo a criação de websites, jogos, bancos de dados e programas administrativos.</h3>
+<h1>Oiii! Eu sou o Gabriel</h1>
 </div>
 <div align="center">
  <h1></h1>
@@ -13,8 +13,6 @@
 <h1></h1>
    
   <div align="center">
-   Tecnologias 
-   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -37,8 +35,8 @@
 <h1></h1>
 
 <div align="center">
- Meus links
- <br>
+
+
  <a href="https://discord.com/invite/yUxC3m9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=gabrielvcoimbra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.instagram.com/manoyu_7123/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
